@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="midnight_navy">#FF172554</color>
+    <color name="tech_blue">#FF2563EB</color>
+    <color name="canvas_slate">#FFF8FAFC</color>
+    <color name="emerald">#FF10B981</color>
+    <color name="warm_amber">#FFF59E0B</color>
+    <color name="coral_crimson">#FFEF4444</color>
+    <color name="black">#FF0F172A</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

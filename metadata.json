@@ -1,0 +1,8 @@
+{
+  "name": "Taraz Precision",
+  "description": "Persian RTL personal accounting, transaction ledger, and budget management app with Taraz Precision design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

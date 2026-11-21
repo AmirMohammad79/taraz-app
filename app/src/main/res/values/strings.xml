@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Taraz Precision</string>
+    <string name="brand_title_fa">تراز دقیق</string>
+    <string name="brand_subtitle_fa">حسابداری و مدیریت دارایی</string>
+    <string name="action_new_transaction">ثبت تراکنش جدید</string>
+    <string name="nav_dashboard">خانه</string>
+    <string name="nav_ledger">تراکنش‌ها</string>
+    <string name="nav_budgets">بودجه</string>
+    <string name="nav_accounts">کارت‌ها</string>
+    <string name="currency_toman">تومان</string>
+    <string name="currency_rial">ریال</string>
+    <string name="cd_open_drawer">باز کردن منوی ناوبری</string>
+    <string name="cd_collapse_drawer">جمع کردن نوار کناری</string>
+    <string name="cd_notifications">اعلان‌های مالی</string>
+    <string name="cd_add_transaction">افزودن تراکنش جدید</string>
+    <string name="cd_search_transactions">جستجو در تراکنش‌ها</string>
+    <string name="cd_more_actions">عملیات بیشتر</string>
+    <string name="cd_close_dialog">بستن پنجره</string>
+    <string name="cd_card_transfer">کارت به کارت</string>
+</resources>
